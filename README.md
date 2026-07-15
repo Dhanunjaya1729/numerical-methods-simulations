@@ -2,8 +2,6 @@
 
 A comprehensive computational mathematics portfolio developed in Python. This repository explores the algorithmic implementation of numerical methods to solve complex engineering and physical systems, ranging from non-linear kinematics to chaotic dynamical systems. 
 
-The accompanying technical report detailing the mathematical derivations, proofs, and convergence analyses can be found in `Numerical_Methods_project_Report.pdf`.
-
 ##  Core Modules
 
 ### 1. Chaotic Dynamical Systems & Fractals
